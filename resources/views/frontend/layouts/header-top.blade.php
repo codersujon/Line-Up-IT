@@ -7,9 +7,10 @@
                     <div class="header-top-icon">
                         <a href="tel:(555)674890556"><i class="fas fa-phone"></i>(+880) 177 35 99 145</a>
                         <a href="mailto:info@example.com"><i class="fal fa-envelope"></i>support@lineupit.com</a>
-                        <i class="fal fa-map-marker-alt"></i><span>106-114 Shahid Faruk Rd, Jatrabari Dhaka 1204.</span>
+                        <i class="fal fa-map-marker-alt"></i><span>32/2, Khan Mansion, Tony Tower, Shahid Faruk Road, Jatrabari, Dhaka-1204.</span>
                     </div>
                 </div>
+                
                 <div class="col-xl-4 col-lg-4">
                     <div class="header-top-login d-flex f-right">
                         <div class="header-user-login p-relative ">
