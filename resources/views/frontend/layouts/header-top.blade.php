@@ -5,7 +5,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-8 col-lg-8">
                     <div class="header-top-icon">
-                        <a href="tel:(555)674890556"><i class="fas fa-phone"></i>(+880) 177 35 99 145</a>
+                        <a href="tel:(555)674890556"><i class="fas fa-phone"></i>(+880) 1970 366 446</a>
                         <a href="mailto:info@example.com"><i class="fal fa-envelope"></i>support@lineupit.com</a>
                         <i class="fal fa-map-marker-alt"></i><span>32/2, Khan Mansion, Tony Tower, Shahid Faruk Road, Jatrabari, Dhaka-1204.</span>
                     </div>
